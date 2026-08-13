@@ -1,0 +1,165 @@
+ApplyWise – Career Application Tracking & Analytics Portal
+📌 Overview
+
+ApplyWise is a web-based Career Application Tracking & Analytics Portal designed to help job seekers organize, monitor, and analyze their job applications in one place.
+
+The project combines a clean user interface with application tracking, analytics, and actionable insights to make the job-search process more structured and data-driven.
+
+🎯 Objectives
+Track job applications efficiently
+Monitor application progress and statuses
+View important application metrics
+Analyze job-search performance
+Provide insights to improve the application strategy
+Create a simple and user-friendly career management experience
+✨ Features
+📊 Analytics Dashboard – View key metrics such as applications, interviews, and offers
+📝 Application Tracker – Keep track of job applications and their current status
+📈 Application Analytics – Understand application trends and performance
+💡 Insights & Recommendations – Get actionable suggestions based on application activity
+🎨 Responsive UI – Clean and modern interface designed for easy navigation
+🔗 Portfolio Integration – Built as a practical project for demonstrating web development and analytics skills
+🛠️ Technologies Used
+HTML5 – Page structure
+CSS3 – Styling and responsive design
+JavaScript – Interactivity and application logic
+Git & GitHub – Version control and project hosting
+📂 Project Structure
+ApplyWise/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── images/
+│   ├── Homepage.png
+│   ├── Dashboard.png
+│   ├── Tracker.png
+│   ├── Analytics.png
+│   ├── Insights.png
+│   └── About.png
+│
+└── README.md
+🚀 How to Run
+Clone the repository:
+git clone https://github.com/panimayapreethi/ApplyWise.git
+Open the project folder.
+Open index.html in your browser.
+
+No additional installation or dependencies are required.
+
+💡 What I Learned
+
+Through this project, I strengthened my understanding of:
+
+Front-end web development
+JavaScript-based interactivity
+Dashboard and UI design
+Data-driven decision making
+User experience design
+Git and GitHub project management
+🔮 Future Improvements
+
+Some planned improvements include:
+
+User authentication
+Database integration
+Real-time application tracking
+Advanced analytics
+Job search API integration
+Automated application reminders
+AI-powered career recommendations
+👩‍💻 Author
+
+Panimaya Preethi S
+
+MBA | Business & Data Analytics
+
+Interested in Data Analytics, Business Analytics, Product Analytics, and Technology.
+
+🔗 Connect
+Portfolio: ApplyWise – Career Application Tracking & Analytics Portal
+📌 Overview
+
+ApplyWise is a web-based Career Application Tracking & Analytics Portal designed to help job seekers organize, monitor, and analyze their job applications in one place.
+
+The project combines a clean user interface with application tracking, analytics, and actionable insights to make the job-search process more structured and data-driven.
+
+🎯 Objectives
+Track job applications efficiently
+Monitor application progress and statuses
+View important application metrics
+Analyze job-search performance
+Provide insights to improve the application strategy
+Create a simple and user-friendly career management experience
+✨ Features
+📊 Analytics Dashboard – View key metrics such as applications, interviews, and offers
+📝 Application Tracker – Keep track of job applications and their current status
+📈 Application Analytics – Understand application trends and performance
+💡 Insights & Recommendations – Get actionable suggestions based on application activity
+🎨 Responsive UI – Clean and modern interface designed for easy navigation
+🔗 Portfolio Integration – Built as a practical project for demonstrating web development and analytics skills
+🛠️ Technologies Used
+HTML5 – Page structure
+CSS3 – Styling and responsive design
+JavaScript – Interactivity and application logic
+Git & GitHub – Version control and project hosting
+📂 Project Structure
+ApplyWise/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── images/
+│   ├── Homepage.png
+│   ├── Dashboard.png
+│   ├── Tracker.png
+│   ├── Analytics.png
+│   ├── Insights.png
+│   └── About.png
+│
+└── README.md
+🚀 How to Run
+Clone the repository:
+git clone https://github.com/panimayapreethi/ApplyWise.git
+Open the project folder.
+Open index.html in your browser.
+
+No additional installation or dependencies are required.
+
+💡 What I Learned
+
+Through this project, I strengthened my understanding of:
+
+Front-end web development
+JavaScript-based interactivity
+Dashboard and UI design
+Data-driven decision making
+User experience design
+Git and GitHub project management
+🔮 Future Improvements
+
+Some planned improvements include:
+
+User authentication
+Database integration
+Real-time application tracking
+Advanced analytics
+Job search API integration
+Automated application reminders
+AI-powered career recommendations
+👩‍💻 Author
+
+Panimaya Preethi S
+
+MBA | Business & Data Analytics
+
+Interested in Data Analytics, Business Analytics, Product Analytics, and Technology.
+
+🔗 Connect
+Portfolio: Panimaya Preethi Portfolio
+GitHub: @panimayapreethi
+LinkedIn: Panimaya Preethi
+
+⭐ If you find this project interesting, feel free to star the repository!
